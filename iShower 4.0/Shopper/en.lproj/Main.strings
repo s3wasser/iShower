@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Ip5-qH-v57"; */
+"Ip5-qH-v57.text" = "Name";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "L3d-nI-kur"; */
+"L3d-nI-kur.text" = "Location";
+
+/* Class = "UITabBarItem"; title = "Items"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Items";
+
+/* Class = "UITabBarItem"; title = "Add New"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Add New";
+
+/* Class = "UILabel"; text = "Add Item"; ObjectID = "lKU-7f-yB8"; */
+"lKU-7f-yB8.text" = "Add Item";
+
+/* Class = "UIButton"; normalTitle = "Add to List"; ObjectID = "tGk-f3-LWA"; */
+"tGk-f3-LWA.normalTitle" = "Add to List";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "tw3-jE-Uoc"; */
+"tw3-jE-Uoc.text" = "Category";
